@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TestNumbers\bin\Debug\TestNumbers.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TestNumbers\bin\Debug\TestNumbers.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TestNumbers\bin\Debug\TestNumbers.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TestNumbers\obj\Debug\TestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TestNumbers\obj\Debug\TestNumbers.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TestNumbers\obj\Debug\TestNumbers.pdb

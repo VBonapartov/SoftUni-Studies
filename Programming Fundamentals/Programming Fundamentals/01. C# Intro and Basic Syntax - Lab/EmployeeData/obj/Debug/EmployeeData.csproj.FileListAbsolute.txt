@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\EmployeeData\obj\Debug\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\EmployeeData\obj\Debug\EmployeeData.pdb

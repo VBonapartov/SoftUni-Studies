@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\BeverageLabels\bin\Debug\BeverageLabels.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\BeverageLabels\bin\Debug\BeverageLabels.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\BeverageLabels\obj\Debug\BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\BeverageLabels\obj\Debug\BeverageLabels.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\BeverageLabels\obj\Debug\BeverageLabels.pdb

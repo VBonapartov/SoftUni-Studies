@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\MilesToKilometers\obj\Debug\MilesToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\MultiplicationTable2.0\bin\Debug\MultiplicationTable2.0.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\MultiplicationTable2.0\bin\Debug\MultiplicationTable2.0.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\MultiplicationTable2.0\bin\Debug\MultiplicationTable2.0.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\MultiplicationTable2.0\obj\Debug\MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\MultiplicationTable2.0\obj\Debug\MultiplicationTable2.0.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\MultiplicationTable2.0\obj\Debug\MultiplicationTable2.0.pdb

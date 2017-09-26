@@ -1,0 +1,7 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.pdb

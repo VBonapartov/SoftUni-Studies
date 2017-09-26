@@ -1,0 +1,7 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

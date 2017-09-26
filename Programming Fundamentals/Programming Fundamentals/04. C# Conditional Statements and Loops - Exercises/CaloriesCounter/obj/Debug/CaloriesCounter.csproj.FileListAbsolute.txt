@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CaloriesCounter\obj\Debug\CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

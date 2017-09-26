@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

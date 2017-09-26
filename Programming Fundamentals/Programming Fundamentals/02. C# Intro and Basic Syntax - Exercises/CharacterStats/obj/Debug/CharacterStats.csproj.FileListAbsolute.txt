@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\CharacterStats\obj\Debug\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\CharacterStats\obj\Debug\CharacterStats.pdb

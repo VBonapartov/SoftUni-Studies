@@ -1,0 +1,7 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\bin\Debug\Hotel.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\bin\Debug\Hotel.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\obj\Debug\Hotel.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\Hotel\obj\Debug\Hotel.pdb

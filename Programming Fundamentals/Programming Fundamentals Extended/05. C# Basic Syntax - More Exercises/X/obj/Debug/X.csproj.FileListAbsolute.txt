@@ -1,0 +1,7 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\bin\Debug\X.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\bin\Debug\X.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\bin\Debug\X.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\obj\Debug\X.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\obj\Debug\X.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\obj\Debug\X.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\X\obj\Debug\X.pdb

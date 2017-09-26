@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\RectangleArea\bin\Debug\RectangleArea.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\RectangleArea\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\RectangleArea\obj\Debug\RectangleArea.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Intro and Basic Syntax Exercises\IntroAndBasicSyntaxExercises\RectangleArea\obj\Debug\RectangleArea.pdb

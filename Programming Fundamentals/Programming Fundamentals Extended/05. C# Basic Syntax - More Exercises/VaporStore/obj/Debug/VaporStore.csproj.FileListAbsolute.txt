@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\VaporStore\obj\Debug\VaporStore.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\VaporStore\bin\Debug\VaporStore.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\VaporStore\bin\Debug\VaporStore.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\VaporStore\bin\Debug\VaporStore.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\VaporStore\obj\Debug\VaporStore.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\VaporStore\obj\Debug\VaporStore.pdb

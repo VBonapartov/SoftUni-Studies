@@ -1,0 +1,7 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Basics - More Exercises\BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.pdb

@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CakeIngredients\bin\Debug\CakeIngredients.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CakeIngredients\bin\Debug\CakeIngredients.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CakeIngredients\obj\Debug\CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CakeIngredients\obj\Debug\CakeIngredients.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\CakeIngredients\obj\Debug\CakeIngredients.pdb

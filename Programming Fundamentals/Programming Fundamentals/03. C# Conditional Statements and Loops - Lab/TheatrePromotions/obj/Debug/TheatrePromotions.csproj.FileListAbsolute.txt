@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\TheatrePromotions\bin\Debug\TheatrePromotions.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\TheatrePromotions\bin\Debug\TheatrePromotions.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\TheatrePromotions\bin\Debug\TheatrePromotions.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\TheatrePromotions\obj\Debug\TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\TheatrePromotions\obj\Debug\TheatrePromotions.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\TheatrePromotions\obj\Debug\TheatrePromotions.pdb

@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\NumberChecker\bin\Debug\NumberChecker.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\NumberChecker\bin\Debug\NumberChecker.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\NumberChecker\bin\Debug\NumberChecker.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\NumberChecker\obj\Debug\NumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\NumberChecker\obj\Debug\NumberChecker.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\NumberChecker\obj\Debug\NumberChecker.pdb

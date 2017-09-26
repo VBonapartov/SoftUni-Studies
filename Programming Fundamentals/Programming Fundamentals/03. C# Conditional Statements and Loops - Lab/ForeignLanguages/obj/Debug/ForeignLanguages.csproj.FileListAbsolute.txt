@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Lab\CondStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

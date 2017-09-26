@@ -1,0 +1,14 @@
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\bin\Debug\NeighbourWars.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\bin\Debug\NeighbourWars.pdb
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.exe
+C:\Users\valecsa\Desktop\Tech Module\Programming Fund\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.pdb
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\bin\Debug\NeighbourWars.exe
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\bin\Debug\NeighbourWars.pdb
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.exe
+C:\Users\valecsa\Desktop\Tech Module\Progr. Fund. Extended\Cond. Statements and Loops Exer\CondStatementsAndLoopsExer\NeighbourWars\obj\Debug\NeighbourWars.pdb

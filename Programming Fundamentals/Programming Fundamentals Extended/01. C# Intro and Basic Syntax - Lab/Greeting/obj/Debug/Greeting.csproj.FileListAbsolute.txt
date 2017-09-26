@@ -1,0 +1,7 @@
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\bin\Debug\Greeting.exe
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\bin\Debug\Greeting.pdb
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\obj\Debug\Greeting.exe
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\Greeting\obj\Debug\Greeting.pdb

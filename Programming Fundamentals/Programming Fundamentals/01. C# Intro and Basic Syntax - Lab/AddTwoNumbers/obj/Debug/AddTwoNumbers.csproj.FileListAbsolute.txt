@@ -1,0 +1,6 @@
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\valecsa\Desktop\Tech Module - септември 2017\Programming Fundamentals\Intro and Basic Syntax Lab\IntroAndBasicSyntaxLab\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
