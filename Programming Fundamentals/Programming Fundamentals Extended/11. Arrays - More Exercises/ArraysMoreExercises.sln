@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last3ConsecutiveEqualStrings", "Last3ConsecutiveEqualStrings\Last3ConsecutiveEqualStrings.csproj", "{635FC6C3-EBCB-4C94-A6F7-BA472ED46A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayElementsEqualToTheirIndex", "ArrayElementsEqualToTheirIndex\ArrayElementsEqualToTheirIndex.csproj", "{1A7A847E-9CF0-4C8B-891A-10EB80BA16A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{839B8025-D83B-480E-85E4-2A94A08108F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone", "Phone\Phone.csproj", "{D4DEAC9D-8A71-4B0D-9932-4F5F9D17C71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharRotation", "CharRotation\CharRotation.csproj", "{E4AD8467-3046-4809-A44D-8F3CE0BF187D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlants", "PowerPlants\PowerPlants.csproj", "{EB740761-2C5F-4943-887B-090D5850094C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResizableArray", "ResizableArray\ResizableArray.csproj", "{AFA4B9C7-FAE5-4F14-BA6C-181ED948BBB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635FC6C3-EBCB-4C94-A6F7-BA472ED46A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635FC6C3-EBCB-4C94-A6F7-BA472ED46A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635FC6C3-EBCB-4C94-A6F7-BA472ED46A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635FC6C3-EBCB-4C94-A6F7-BA472ED46A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7A847E-9CF0-4C8B-891A-10EB80BA16A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7A847E-9CF0-4C8B-891A-10EB80BA16A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7A847E-9CF0-4C8B-891A-10EB80BA16A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7A847E-9CF0-4C8B-891A-10EB80BA16A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839B8025-D83B-480E-85E4-2A94A08108F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839B8025-D83B-480E-85E4-2A94A08108F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839B8025-D83B-480E-85E4-2A94A08108F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839B8025-D83B-480E-85E4-2A94A08108F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DEAC9D-8A71-4B0D-9932-4F5F9D17C71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DEAC9D-8A71-4B0D-9932-4F5F9D17C71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DEAC9D-8A71-4B0D-9932-4F5F9D17C71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DEAC9D-8A71-4B0D-9932-4F5F9D17C71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AD8467-3046-4809-A44D-8F3CE0BF187D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AD8467-3046-4809-A44D-8F3CE0BF187D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AD8467-3046-4809-A44D-8F3CE0BF187D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AD8467-3046-4809-A44D-8F3CE0BF187D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB740761-2C5F-4943-887B-090D5850094C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB740761-2C5F-4943-887B-090D5850094C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB740761-2C5F-4943-887B-090D5850094C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB740761-2C5F-4943-887B-090D5850094C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA4B9C7-FAE5-4F14-BA6C-181ED948BBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA4B9C7-FAE5-4F14-BA6C-181ED948BBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA4B9C7-FAE5-4F14-BA6C-181ED948BBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA4B9C7-FAE5-4F14-BA6C-181ED948BBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98986AD7-E177-4DE4-85D4-A90A4BB09D2C}
+	EndGlobalSection
+EndGlobal
