@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wormhole", "Wormhole\Wormhole.csproj", "{34341DC4-C346-48E3-A8A9-CD0253923101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormsWorldParty", "WormsWorldParty\WormsWorldParty.csproj", "{526ADFF3-5568-4DBF-B969-CCCB2D3E9415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34341DC4-C346-48E3-A8A9-CD0253923101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34341DC4-C346-48E3-A8A9-CD0253923101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34341DC4-C346-48E3-A8A9-CD0253923101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34341DC4-C346-48E3-A8A9-CD0253923101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526ADFF3-5568-4DBF-B969-CCCB2D3E9415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526ADFF3-5568-4DBF-B969-CCCB2D3E9415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526ADFF3-5568-4DBF-B969-CCCB2D3E9415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526ADFF3-5568-4DBF-B969-CCCB2D3E9415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E8792D-3C43-4E97-8CA1-B3806820D315}
+	EndGlobalSection
+EndGlobal

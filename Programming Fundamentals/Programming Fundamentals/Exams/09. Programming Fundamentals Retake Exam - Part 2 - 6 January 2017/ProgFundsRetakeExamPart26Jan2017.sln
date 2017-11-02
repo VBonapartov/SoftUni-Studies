@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnduranceRally", "EnduranceRally\EnduranceRally.csproj", "{0C4C8408-77DD-485F-89F8-1E874A0C8B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinningTicket", "WinningTicket\WinningTicket.csproj", "{057C2182-1AA9-464D-8CEB-2172F42066C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4C8408-77DD-485F-89F8-1E874A0C8B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4C8408-77DD-485F-89F8-1E874A0C8B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4C8408-77DD-485F-89F8-1E874A0C8B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4C8408-77DD-485F-89F8-1E874A0C8B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057C2182-1AA9-464D-8CEB-2172F42066C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057C2182-1AA9-464D-8CEB-2172F42066C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057C2182-1AA9-464D-8CEB-2172F42066C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057C2182-1AA9-464D-8CEB-2172F42066C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {122B5018-130B-4E00-8FB5-AFCAFF4BBE3D}
+	EndGlobalSection
+EndGlobal

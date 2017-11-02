@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek", "DayOfWeek\DayOfWeek.csproj", "{4F8B7FEC-D92D-4C1C-939C-608A8186082F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizeWords", "RandomizeWords\RandomizeWords.csproj", "{9DDCC438-273B-49BF-973C-C2EB8C392179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{6C75E758-E9FC-4BCE-B959-0A00B06CE5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenPoints", "DistanceBetweenPoints\DistanceBetweenPoints.csproj", "{1D1619D8-2F92-44DA-8178-E66E1DAB11F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestTwoPoints", "ClosestTwoPoints\ClosestTwoPoints.csproj", "{E482D33D-90B6-44D3-B993-E076E7087E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglePosition", "RectanglePosition\RectanglePosition.csproj", "{491C9896-5528-43BA-BF1B-5287300444BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesReport", "SalesReport\SalesReport.csproj", "{10CAB81C-232A-4170-AAD4-87FB4BD38E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8B7FEC-D92D-4C1C-939C-608A8186082F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8B7FEC-D92D-4C1C-939C-608A8186082F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8B7FEC-D92D-4C1C-939C-608A8186082F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8B7FEC-D92D-4C1C-939C-608A8186082F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDCC438-273B-49BF-973C-C2EB8C392179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDCC438-273B-49BF-973C-C2EB8C392179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDCC438-273B-49BF-973C-C2EB8C392179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDCC438-273B-49BF-973C-C2EB8C392179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C75E758-E9FC-4BCE-B959-0A00B06CE5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C75E758-E9FC-4BCE-B959-0A00B06CE5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C75E758-E9FC-4BCE-B959-0A00B06CE5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C75E758-E9FC-4BCE-B959-0A00B06CE5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1619D8-2F92-44DA-8178-E66E1DAB11F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1619D8-2F92-44DA-8178-E66E1DAB11F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1619D8-2F92-44DA-8178-E66E1DAB11F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1619D8-2F92-44DA-8178-E66E1DAB11F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E482D33D-90B6-44D3-B993-E076E7087E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E482D33D-90B6-44D3-B993-E076E7087E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E482D33D-90B6-44D3-B993-E076E7087E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E482D33D-90B6-44D3-B993-E076E7087E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491C9896-5528-43BA-BF1B-5287300444BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491C9896-5528-43BA-BF1B-5287300444BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491C9896-5528-43BA-BF1B-5287300444BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491C9896-5528-43BA-BF1B-5287300444BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CAB81C-232A-4170-AAD4-87FB4BD38E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CAB81C-232A-4170-AAD4-87FB4BD38E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CAB81C-232A-4170-AAD4-87FB4BD38E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CAB81C-232A-4170-AAD4-87FB4BD38E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E7800F6-6B45-476A-AC99-B90909225BFD}
+	EndGlobalSection
+EndGlobal
