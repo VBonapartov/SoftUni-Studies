@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousVox", "AnonymousVox\AnonymousVox.csproj", "{0A06C25D-2251-403D-B6B8-5056EB02F545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousCache", "AnonymousCache\AnonymousCache.csproj", "{DBE3CA7A-4B52-487E-A3BF-A2DC82B872E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A06C25D-2251-403D-B6B8-5056EB02F545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A06C25D-2251-403D-B6B8-5056EB02F545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A06C25D-2251-403D-B6B8-5056EB02F545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A06C25D-2251-403D-B6B8-5056EB02F545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE3CA7A-4B52-487E-A3BF-A2DC82B872E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE3CA7A-4B52-487E-A3BF-A2DC82B872E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE3CA7A-4B52-487E-A3BF-A2DC82B872E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE3CA7A-4B52-487E-A3BF-A2DC82B872E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE8A26CC-8E38-41F1-9EEB-04F6D10593F7}
+	EndGlobalSection
+EndGlobal
