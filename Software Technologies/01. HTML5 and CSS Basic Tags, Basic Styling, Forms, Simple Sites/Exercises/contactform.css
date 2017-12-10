@@ -1,0 +1,41 @@
+form {
+    background: #eee;
+    display: inline-block;
+}
+
+form span {
+    width: 80px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration: line-through;
+    background: #eee;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 3px;
+    margin-left: 8px;
+    margin-bottom: 3px;
+}
+
+input[type='text'], select{
+    color: #ff0000;
+}
+
+form input, form select {
+    width: 150px;
+    height: 20px;
+    margin-top: 0px;
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+form input[type='submit'] {
+    display: block;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 98px;
+    margin-bottom: 0px;
+    width: 60px;
+    height: 23px;
+}
