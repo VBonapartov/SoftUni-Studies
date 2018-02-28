@@ -43,27 +43,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contracts\IReader.cs" />
+    <Compile Include="Contracts\IWriter.cs" />
     <Compile Include="Enums\Weather.cs" />
     <Compile Include="Factories\CarFactory.cs" />
     <Compile Include="Factories\DriverFactory.cs" />
     <Compile Include="Factories\TyreFactory.cs" />
-    <Compile Include="Interfaces\ICar.cs" />
-    <Compile Include="Interfaces\IRaceTower.cs" />
-    <Compile Include="Interfaces\IReader.cs" />
-    <Compile Include="Interfaces\IWriter.cs" />
     <Compile Include="IO\ConsoleReader.cs" />
     <Compile Include="IO\ConsoleWriter.cs" />
-    <Compile Include="Models\Car.cs" />
+    <Compile Include="Models\Cars\Car.cs" />
     <Compile Include="Core\Engine.cs" />
     <Compile Include="Core\RaceTower.cs" />
     <Compile Include="Models\Drivers\AggressiveDriver.cs" />
     <Compile Include="Models\Drivers\Driver.cs" />
     <Compile Include="Models\Drivers\EnduranceDriver.cs" />
-    <Compile Include="Interfaces\IDriver.cs" />
     <Compile Include="Models\Tyres\HardTyre.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Interfaces\ITyre.cs" />
     <Compile Include="Models\Tyres\Tyre.cs" />
     <Compile Include="Models\Tyres\UltrasoftTyre.cs" />
   </ItemGroup>

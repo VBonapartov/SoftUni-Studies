@@ -7,7 +7,7 @@
             IReader reader = new ConsoleReader();
             IWriter writer = new ConsoleWriter();
 
-            IRaceTower race = new RaceTower();
+            RaceTower race = new RaceTower();
             Engine engine = new Engine(race, reader, writer);
             engine.Run();
         }

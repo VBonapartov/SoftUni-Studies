@@ -11,9 +11,7 @@ public class UltrasoftTyre : Tyre
     {
         this.Grip = grip;
     }
-
-    private double Grip { get; }
-
+        
     public override double Degradation
     {
         get
@@ -33,6 +31,8 @@ public class UltrasoftTyre : Tyre
     }
 
     public override string Name => UltrasoftTyreName;
+
+    private double Grip { get; }
 
     public override void ReduceDegradation()
     {

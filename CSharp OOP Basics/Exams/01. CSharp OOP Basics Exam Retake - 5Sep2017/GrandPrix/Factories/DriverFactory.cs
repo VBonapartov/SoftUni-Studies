@@ -2,7 +2,7 @@
 
 public static class DriverFactory
 {
-    public static IDriver Create(string driverType, string name, ICar car)
+    public static Driver Create(string driverType, string name, Car car)
     {
         switch (driverType)
         {

@@ -1,16 +1,16 @@
-﻿public abstract class Driver : IDriver
+﻿public abstract class Driver
 {
     private string name;
     private double totalTime;
-    private ICar car;
+    private Car car;
     private double fuelConsumptionPerKm;
 
-    public Driver(string name, ICar car, double fuelConsumptionPerKm)
+    protected Driver(string name, Car car, double fuelConsumptionPerKm)
     {
-        this.Name = name;
-        this.TotalTime = 0;
+        this.Name = name;        
         this.Car = car;
         this.FuelConsumptionPerKm = fuelConsumptionPerKm;
+        this.TotalTime = 0;
     }
 
     public string Name
@@ -25,7 +25,7 @@
         set => this.totalTime = value;
     }
 
-    public ICar Car
+    public Car Car
     {
         get => this.car;
         private set => this.car = value;
@@ -37,7 +37,7 @@
         protected set => this.fuelConsumptionPerKm = value;
     }
 
-    public virtual double Speed => (this.Car.HorsePower + this.Car.Tyre.Degradation) / this.Car.FuelAmount;
+    public virtual double Speed => (this.Car.Hp + this.Car.Tyre.Degradation) / this.Car.FuelAmount;
 
     public virtual void ReduceFuelAmount(int length)
     {

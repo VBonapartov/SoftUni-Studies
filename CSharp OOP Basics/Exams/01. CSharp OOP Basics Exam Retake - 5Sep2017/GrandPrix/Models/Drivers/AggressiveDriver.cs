@@ -1,8 +1,9 @@
 ﻿public class AggressiveDriver : Driver
 {
     private new const double FuelConsumptionPerKm = 2.7;
+    private const double SpeedMultiply = 1.3;
 
-    public AggressiveDriver(string name, ICar car)
+    public AggressiveDriver(string name, Car car)
         : base(name, car, FuelConsumptionPerKm)
     {
     }
@@ -11,7 +12,7 @@
     {
         get
         {
-            return base.Speed * 1.3;
+            return base.Speed * SpeedMultiply;
         }        
     }
 }

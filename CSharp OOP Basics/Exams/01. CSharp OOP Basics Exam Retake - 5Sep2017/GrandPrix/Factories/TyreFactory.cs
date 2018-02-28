@@ -1,7 +1,8 @@
 ﻿using System;
+
 public static class TyreFactory
 {
-    public static ITyre Create(string tyreType, double tyreHardness, double grip)
+    public static Tyre Create(string tyreType, double tyreHardness, double grip)
     {
         switch (tyreType)
         {

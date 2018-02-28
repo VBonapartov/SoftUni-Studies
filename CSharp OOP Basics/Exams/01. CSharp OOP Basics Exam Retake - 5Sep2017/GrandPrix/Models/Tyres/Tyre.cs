@@ -1,20 +1,30 @@
 ﻿using System;
 
-public abstract class Tyre : ITyre
+public abstract class Tyre
 {
     private const int StartPointsDegradation = 100;
 
+    private string name;
+    private double hardness;
     private double degradation;
 
-    public Tyre(double hardness)
+    protected Tyre(double hardness)
     {
         this.Hardness = hardness;
         this.Degradation = StartPointsDegradation;
     }
 
-    public abstract string Name { get; }
+    public virtual string Name
+    {
+        get { return this.name; }
+        protected set { this.name = value; }
+    }
 
-    public double Hardness { get; private set; }
+    public double Hardness
+    {
+        get { return this.hardness; }
+        protected set { this.hardness = value; }
+    }
 
     public virtual double Degradation
     {

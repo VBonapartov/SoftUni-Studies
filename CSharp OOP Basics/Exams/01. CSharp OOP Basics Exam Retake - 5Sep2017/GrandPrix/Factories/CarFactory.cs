@@ -1,6 +1,6 @@
 ﻿public static class CarFactory
 {
-    public static ICar Create(int hp, double fuelAmount, ITyre tyre)
+    public static Car Create(int hp, double fuelAmount, Tyre tyre)
     {
         return new Car(hp, fuelAmount, tyre);
     }
