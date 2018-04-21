@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BashSoft", "BashSoft\BashSoft.csproj", "{02B2FA87-42D9-4106-BE04-0F1609E5B6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BashSoft.Tests", "BashSoft.Tests\BashSoft.Tests.csproj", "{809C855E-4E19-4ED0-9A37-D329C6A12000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B2FA87-42D9-4106-BE04-0F1609E5B6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B2FA87-42D9-4106-BE04-0F1609E5B6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B2FA87-42D9-4106-BE04-0F1609E5B6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B2FA87-42D9-4106-BE04-0F1609E5B6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809C855E-4E19-4ED0-9A37-D329C6A12000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809C855E-4E19-4ED0-9A37-D329C6A12000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809C855E-4E19-4ED0-9A37-D329C6A12000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809C855E-4E19-4ED0-9A37-D329C6A12000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB5FFF7-087A-4E61-9951-451A66143112}
+	EndGlobalSection
+EndGlobal
