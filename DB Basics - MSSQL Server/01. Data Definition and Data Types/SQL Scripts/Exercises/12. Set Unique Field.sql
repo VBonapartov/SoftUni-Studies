@@ -1,0 +1,19 @@
+/* 12. Set Unique Field */
+USE [Minions]
+GO
+
+ALTER TABLE Users 
+DROP CONSTRAINT PK_Users
+GO
+
+ALTER TABLE Users
+ADD CONSTRAINT PK_Person PRIMARY KEY(Id);
+GO
+
+ALTER TABLE Users
+ADD CONSTRAINT UQ_Users UNIQUE(Username)
+GO
+
+ALTER TABLE Users
+ADD CONSTRAINT CH_Users CHECK(LEN(Username) >= 3)
+GO
